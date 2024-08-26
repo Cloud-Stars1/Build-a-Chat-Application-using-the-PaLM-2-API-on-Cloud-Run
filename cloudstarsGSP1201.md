@@ -1,6 +1,6 @@
 # Build a Chat Application using the PaLM 2 API on Cloud Run || GSP1201
 
-## Solution [here](https://youtu.be/gnRrAbUzMdc)
+## Solution [here](https://youtu.be/5pmJvE0vUew)
 
 ### Run the following Commands in the Cloud shell
 
